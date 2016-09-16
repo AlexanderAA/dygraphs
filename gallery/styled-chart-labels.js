@@ -21,10 +21,6 @@ Gallery.register(
               titleHeight: 32,
               ylabel: 'Temperature (F)',
               xlabel: 'Date (Ticks indicate the start of the indicated time period)',
-              labelsDivStyles: {
-                'text-align': 'right',
-                'background': 'none'
-              },
               strokeWidth: 1.5
             }
           );
@@ -37,10 +33,6 @@ Gallery.register(
               title: 'High and Low Temperatures (30-day average)',
               ylabel: 'Temperature (F)',
               xlabel: 'Date (Ticks indicate the start of the indicated time period)',
-              labelsDivStyles: {
-                'text-align': 'right',
-                'background': 'none'
-              },
               strokeWidth: 1.5
             }
           );
